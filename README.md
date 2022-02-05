@@ -34,7 +34,7 @@
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42cub3d">
         <img src="https://img.shields.io/badge/42cub3d-0C1117?style=for-the-badge&logo=C&logoColor=5e6cbe" alt="42cub3d">
     </a>
-    <p style="padding-left: 10px">Recreating Wolfenstein 3D game in C language using Ray-casting algorithm, which was the first FPS ever.</p>
+    <p style="padding-left: 10px">Recreating Wolfenstein 3D game which was the first FPS ever, in C language and using the Ray-casting algorithm.</p>
 </div>
 
 <div style="display: flex; align-items: center;">
