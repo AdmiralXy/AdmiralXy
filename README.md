@@ -51,13 +51,6 @@
     <p style="padding-left: 10px">Site for testing and debugging sortings algorithms on PHP.</p>
 </div>
 
-<div style="display: flex; align-items: center;">
-    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/quiz-vue">
-        <img src="https://img.shields.io/badge/quiz_vue-0C1117?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" alt="quiz-vue">
-    </a>
-    <p style="padding-left: 10px">Beautiful quiz with Bootstrap & Vue.js</p>
-</div>
-
 ### Follow Me
 
 [![VK](https://img.shields.io/badge/-VK-0C1117?style=flat-square&logo=VK&logoColor=0077FF)](https://vk.com/daleet)
