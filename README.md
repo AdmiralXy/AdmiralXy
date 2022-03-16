@@ -23,6 +23,13 @@
 ### Projects
 
 <div style="display: flex; align-items: center;">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/spring-board">
+        <img src="https://img.shields.io/badge/Spring%20Board-0C1117?style=for-the-badge&logo=Java&logoColor=007396" alt="spring-board">
+    </a>
+    <p style="padding-left: 10px">ToDo list - create and manage various boards, tasks and mark the status points of their completion.</p>
+</div>
+
+<div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42minishell">
         <img src="https://img.shields.io/badge/42Minishell-0C1117?style=for-the-badge&logo=iTerm2&logoColor=fff" alt="42minishell">
     </a>
