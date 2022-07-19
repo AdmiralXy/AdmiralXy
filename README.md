@@ -18,7 +18,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdmiralXy&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiralXy&layout=compact&theme=tokyonight&hide=CSS,Roff,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiralXy&layout=compact&theme=tokyonight&hide=CSS,Roff,Objective-C,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
 
