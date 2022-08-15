@@ -23,38 +23,59 @@
 ### Projects
 
 <div style="display: flex; align-items: center;">
-    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/spring-board">
-        <img src="https://img.shields.io/badge/Spring%20Board-0C1117?style=for-the-badge&logo=Java&logoColor=007396" alt="spring-board">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/spring-accounts">
+        <img src="https://img.shields.io/badge/Spring%20Accounts-0C1117?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=4977d9" alt="spring-accounts">
     </a>
-    <p style="padding-left: 10px">ToDo list - create and manage various boards, tasks and mark the status points of their completion.</p>
+    <p style="padding-left: 10px">Accounts storage web service with AES CBC encryption</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/spring-board">
+        <img src="https://img.shields.io/badge/Spring%20Board-0C1117?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=4977d9" alt="spring-board">
+    </a>
+    <p style="padding-left: 10px">ToDo list, create and manage various boards, tasks and mark the status points of their completion</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42ft_transcendence">
+        <img src="https://img.shields.io/badge/Transcendence-0C1117?style=for-the-badge&logo=NestJS&logoColor=007396" alt="42ft_transcendence">
+    </a>
+    <p style="padding-left: 10px">Real-time multiplayer Pong game with matchmaking, rating, groups, chat, friends and many more features</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42ft_irc">
+        <img src="https://img.shields.io/badge/IRC-0C1117?style=for-the-badge&logo=C%2B%2B&logoColor=007396" alt="42ft_irc">
+    </a>
+    <p style="padding-left: 10px">IRC server with RFC 1459 standard, offers real-time messaging that can be either public or private</p>
 </div>
 
 <div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42minishell">
-        <img src="https://img.shields.io/badge/42Minishell-0C1117?style=for-the-badge&logo=iTerm2&logoColor=fff" alt="42minishell">
+        <img src="https://img.shields.io/badge/Minishell-0C1117?style=for-the-badge&logo=C&logoColor=5e6cbe" alt="42minishell">
     </a>
-    <p style="padding-left: 10px">Command shell like GNU Bash that can run binaries, have a working history, pipes and redirects, builtins functionality like echo or export and more.</p>
+    <p style="padding-left: 10px">Command shell like GNU Bash that can run binaries, have a working history, pipes and redirects, builtins functionality like echo or export and more</p>
 </div>
 
 <div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42cub3d">
         <img src="https://img.shields.io/badge/42cub3d-0C1117?style=for-the-badge&logo=C&logoColor=5e6cbe" alt="42cub3d">
     </a>
-    <p style="padding-left: 10px">Recreating Wolfenstein 3D game which was the first FPS ever, in C language and using the Ray-casting algorithm.</p>
+    <p style="padding-left: 10px">Recreating Wolfenstein 3D game which was the first FPS ever, in C language and using the Ray-casting algorithm</p>
 </div>
 
 <div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/feed21">
         <img src="https://img.shields.io/badge/feed21-0C1117?style=for-the-badge&logo=Vue.js&logoColor=4FC08D" alt="feed21">
     </a>
-    <p style="padding-left: 10px">Random feedback generator for 21school students.</p>
+    <p style="padding-left: 10px">Random feedback generator for 21school students</p>
 </div>
 
 <div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/sorts.site">
         <img src="https://img.shields.io/badge/sorts.site-0C1117?style=for-the-badge&logo=PHP&logoColor=777BB4" alt="sorts.site">
     </a>
-    <p style="padding-left: 10px">Site for testing and debugging sortings algorithms on PHP.</p>
+    <p style="padding-left: 10px">Site for testing and debugging sortings algorithms on PHP</p>
 </div>
 
 ### Follow Me
