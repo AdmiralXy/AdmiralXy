@@ -23,6 +23,13 @@
 ### Projects
 
 <div style="display: flex; align-items: center;">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42springboot">
+        <img src="https://img.shields.io/badge/SpringBoot-0C1117?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=4977d9" alt="42springboot">
+    </a>
+    <p style="padding-left: 10px">Cinema website: films, halls, sessions, WebSocket live chat, user roles, localization, validation and mailing</p>
+</div>
+
+<div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/spring-accounts">
         <img src="https://img.shields.io/badge/Spring%20Accounts-0C1117?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=4977d9" alt="spring-accounts">
     </a>
