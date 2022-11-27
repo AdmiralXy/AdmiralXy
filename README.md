@@ -23,6 +23,20 @@
 ### Projects
 
 <div style="display: flex; align-items: center;">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42microservices">
+        <img src="https://img.shields.io/badge/Microservices-0C1117?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=4977d9" alt="42microservices">
+    </a>
+    <p style="padding-left: 10px">Microservices for data aggregation about covid-19 and countries, based on Spring Cloud and Netflix Eureka</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42restful">
+        <img src="https://img.shields.io/badge/Restful-0C1117?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=4977d9" alt="42restful">
+    </a>
+    <p style="padding-left: 10px">Spring Data REST: training center management, HATEOAS architecture, auto-generation of adoc documentation based on unit tests</p>
+</div>
+
+<div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42springboot">
         <img src="https://img.shields.io/badge/SpringBoot-0C1117?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=4977d9" alt="42springboot">
     </a>
