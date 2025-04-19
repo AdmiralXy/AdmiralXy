@@ -99,6 +99,6 @@
     <p style="padding-left: 10px">Site for testing and debugging sortings algorithms on PHP</p>
 </div>
 
-### Follow Me
+### Contacts
 
-[![VK](https://img.shields.io/badge/-VK-0C1117?style=flat-square&logo=VK&logoColor=0077FF)](https://vk.com/daleet)
+[![Telegram](https://img.shields.io/badge/-Telegram-0C1117?style=flat-square&logo=Telegram&logoColor=0077FF)](https://t.me/mdshack)
