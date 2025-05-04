@@ -23,6 +23,13 @@
 ### Projects
 
 <div style="display: flex; align-items: center;">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/spring-mediatr">
+        <img src="https://img.shields.io/badge/Spring-Mediatr-1?style=for-the-badge&logo=Spring&color=%2393c47d" alt="spring-mediatr">
+    </a>
+    <p style="padding-left: 10px">Lightweight in-process messaging library for Spring Boot 3 and Java 17+</p>
+</div>
+
+<div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42microservices">
         <img src="https://img.shields.io/badge/Microservices-0C1117?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=4977d9" alt="42microservices">
     </a>
@@ -34,13 +41,6 @@
         <img src="https://img.shields.io/badge/Restful-0C1117?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=4977d9" alt="42restful">
     </a>
     <p style="padding-left: 10px">Spring Data REST: training center management, HATEOAS architecture, auto-generation of adoc documentation based on unit tests</p>
-</div>
-
-<div style="display: flex; align-items: center;">
-    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42springboot">
-        <img src="https://img.shields.io/badge/SpringBoot-0C1117?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=4977d9" alt="42springboot">
-    </a>
-    <p style="padding-left: 10px">Cinema website: films, halls, sessions, WebSocket live chat, user roles, localization, validation and mailing</p>
 </div>
 
 <div style="display: flex; align-items: center;">
