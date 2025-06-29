@@ -32,7 +32,7 @@
 
 <div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/spring-cache-jpa">
-        <img src="https://img.shields.io/badge/Spring-Cache-JPA-1?style=for-the-badge&logo=Spring&color=%2393c47d" alt="spring-mediatr">
+        <img src="https://img.shields.io/badge/Spring-Cache%20JPA-1?style=for-the-badge&logo=Spring&color=%2393c47d" alt="spring-cache-jpa">
     </a>
     <p style="padding-left: 10px">Spring Cache database provider for Spring (Boot) applications using JPA - works out of the box.</p>
 </div>
