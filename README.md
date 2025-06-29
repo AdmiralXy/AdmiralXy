@@ -31,6 +31,13 @@
 </div>
 
 <div style="display: flex; align-items: center;">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/spring-cache-jpa">
+        <img src="https://img.shields.io/badge/Spring-Cache-JPA-1?style=for-the-badge&logo=Spring&color=%2393c47d" alt="spring-mediatr">
+    </a>
+    <p style="padding-left: 10px">Spring Cache database provider for Spring (Boot) applications using JPA - works out of the box.</p>
+</div>
+
+<div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42microservices">
         <img src="https://img.shields.io/badge/Microservices-0C1117?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=4977d9" alt="42microservices">
     </a>
