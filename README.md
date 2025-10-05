@@ -83,7 +83,7 @@
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/AdmiralXy/42ft_irc">
         <img src="https://img.shields.io/badge/IRC-0C1117?style=for-the-badge&logo=C%2B%2B&logoColor=007396" alt="42ft_irc">
     </a>
-    <p style="padding-left: 10px">IRC server with RFC 1459 standard, offers real-time messaging that can be either public or private</p>
+    <p style="padding-left: 10px">C++ IRC server with RFC 1459 standard, offers real-time messaging that can be either public or private</p>
 </div>
 
 <div style="display: flex; align-items: center;">
